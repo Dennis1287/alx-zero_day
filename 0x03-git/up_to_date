@@ -1,1 +1,11 @@
-git pull
+# Update local branch with remote changes
+git pull origin main
+
+# Add changes to Git
+git add .
+
+# Commit changes with a message
+git commit -m "How to be up to date in git"
+
+# Push changes to the origin
+git push origin main
